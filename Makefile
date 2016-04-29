@@ -1,5 +1,7 @@
 oh une autre modif local dans master
 
+Encore une modif git2
+
 Voici une modification concurrente , je suis sur master et le conflit est resolu
 
 #
