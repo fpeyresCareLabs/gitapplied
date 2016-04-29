@@ -1,4 +1,6 @@
-Voici une modification concurrente , je suis sur master
+
+Voici une modification concurrente , je suis sur master et le conflit est resolu
+
 #
 # SPDX-License-Identifier:	GPL-2.0+
 #
