@@ -8,7 +8,7 @@ Voici une modification concurrente , je suis sur master et le conflit est resolu
 # SPDX-License-Identifier:	GPL-2.0+
 #
 
-VERSION = 2016
+VERSION = 2017
 PATCHLEVEL = 05
 SUBLEVEL =
 EXTRAVERSION = -rc3
