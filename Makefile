@@ -1,3 +1,4 @@
+Voici une modification concurrente , je suis sur master
 #
 # SPDX-License-Identifier:	GPL-2.0+
 #
